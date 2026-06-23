@@ -1,0 +1,9 @@
+﻿venv/
+scweet_state.db
+__pycache__/
+*.pyc
+.env
+models/afroxlmr/
+models/afroxlmr_final/
+data/raw/
+rwanda_politics_sentiment_scope.html
