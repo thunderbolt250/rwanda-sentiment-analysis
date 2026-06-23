@@ -24,7 +24,7 @@ from Scweet import Scweet
 #  CONFIGURATION — edit these before running
 # ─────────────────────────────────────────
 
-AUTH_TOKEN = "dd31b83fb05d89dc1925d2db56644a36c649929f"   # paste your X auth_token cookie here
+AUTH_TOKEN = "AUTH_TOKEN"   # paste your X auth_token cookie here
 
 SEARCH_QUERIES = [
     "#Rwanda politics",
