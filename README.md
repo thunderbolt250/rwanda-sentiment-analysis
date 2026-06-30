@@ -51,8 +51,7 @@ This project analyzes public sentiment on Twitter/X about Rwandan political topi
 
 ## Demo
 
-> 🚀 **[Live Dashboard →](https://your-streamlit-app-url.streamlit.app)**
-> *(update this link after deploying to Streamlit Cloud)*
+> 🚀 **[Live Dashboard →](https://rwanda-sentiment-analysis.streamlit.app/)
 
 | Overview | Trends | Explainability | Live Predictor |
 |---|---|---|---|
